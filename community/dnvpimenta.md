@@ -3,8 +3,8 @@
 <div align="left">
   <p>- 🔭 Sou Engenheiro de Produção com uma especialização em Gestão de Projetos.
 
-Sou um profissional com experiência em industria e gestão de operações. Atuei em projetos de desenvolvimento de produtos digitais aplicados à logística e 
-estou em busca de novos desafios na área de tecnologia. Para isso estou imerso nos cursos e bootcamps da [DIO](https://web.dio.me/home), principalmente na liguagem de programação Java.
+Sou um profissional com experiência em indústria e gestão de operações. Atuei em projetos de desenvolvimento de produtos digitais aplicados à logística e 
+estou em busca de novos desafios na área de tecnologia. Para isso estou imerso nos cursos e bootcamps da [DIO](https://web.dio.me/home), principalmente na linguagem de programação Java.
 Estou animado com a possibilidade de contribuir com as minhas competências e experiências para o mundo do desenvolvimento.</p>
 </div>
 
